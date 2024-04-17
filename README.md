@@ -5,9 +5,8 @@ ensuring a seamless browsing experience across different devices.
 
 
 #Screenshot 
-![Screenshot (1045)](https://github.com/Parvezalimd/Get_random_img/assets/93636897/8abdd32b-cbc0-4887-a5d4-b196cb3d4568)
+![Screenshot (1045)](https://github.com/Parvezalimd/Get_random_img/assets/93636897/e6d90b5f-1011-48ff-981a-897cea0cec84)
 
 ![Screenshot (1047)](https://github.com/Parvezalimd/Get_random_img/assets/93636897/f716c702-c0de-45f8-8892-2fc0c1c6c08a)
 
-![Screenshot (1045)]![Screenshot (1050)](https://github.com/Parvezalimd/Get_random_img/assets/93636897/6bbbeb2f-7ef2-4db5-890f-d1460719a3d4)
-
+![Screenshot (1051)](https://github.com/Parvezalimd/Get_random_img/assets/93636897/cbe75387-e7e1-47d7-84fa-8aeddef2f914)
