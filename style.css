@@ -120,3 +120,18 @@ button:active{
     color: #2196F3;
     
   }
+.get_more{
+    background-color: rgb(20, 26, 68);
+    color: aliceblue;
+    font-style: italic;
+    font-size: 30px;
+    padding: 5px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 95vw;
+    /* margin: auto; */
+    align-items: center;
+    margin-left: 10px;
+    border-radius: 2.5rem;
+  }
